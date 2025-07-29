@@ -1,6 +1,5 @@
-# Traction Notetaker Releases
+# Traction for MacOS Releases
 
-This repository hosts the official releases for Traction Notetaker.
+This repository hosts the official releases of Traction for MacOS.
 
-Learn more at: https://get.traction.team/download
-
+Learn more at: <https://get.traction.team/download>
